@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1652478876 source:c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\ceasarcode.cpp
+	<iostream>
+	<string>
+
+1652530034 source:c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\main.cpp
+	<iostream>
+	<string>
+	"Encryption.h"
+	"Decryption.h"
+
+1652470099 c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\ceasarcode.h
+	<string>
+
+1652386848 c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\ceasarcode.cpp
+	<iostream>
+	<string>
+
+1652475392 source:c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\splitstring.cpp
+	<iostream>
+	<string>
+
+1652475529 c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\splitstring.h
+	<string>
+
+1652528900 source:c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\caesarcode.cpp
+	<iostream>
+	<string>
+	"CommonFunctions.h"
+
+1652481928 c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\caesarcode.h
+	<string>
+
+1652529141 source:c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\decryption.cpp
+	<iostream>
+	<string>
+	"CommonFunctions.h"
+
+1652530231 c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\decryption.h
+	<string>
+
+1652530267 c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\commonfunctions.h
+	<string>
+
+1652529177 source:c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\commonfunctions.cpp
+	<iostream>
+	<string>
+
+1652530635 source:c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\encryption.cpp
+	<iostream>
+	<string>
+	"CommonFunctions.h"
+
+1652530227 c:\users\jakup\desktop\klaudia\studia\informatyka\2sem\aisd\szyfrowanie\encryption.h
+	<string>
+
